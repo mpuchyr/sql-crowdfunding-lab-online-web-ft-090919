@@ -9,5 +9,5 @@ CREATE TABLE projects (
 
 
 CREATE TABLE users (
-  
+
 );
